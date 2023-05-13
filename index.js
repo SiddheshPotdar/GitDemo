@@ -1,2 +1,8 @@
-console.log("version 2");
-console.log("version 3");
+function sub(a, b) {
+	return a + b;
+}
+
+const m = 30;
+const n = 10;
+
+console.log(sub(m, n));
